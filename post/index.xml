@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Agata</title>
+    <link>https://agatakazakevic.github.io/Agataportfolio/post/</link>
+    <description>Recent content in Projects on Agata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://agatakazakevic.github.io/Agataportfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KurKeliauk website</title>
+      <link>https://agatakazakevic.github.io/Agataportfolio/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agatakazakevic.github.io/Agataportfolio/post/chapter-2/</guid>
+      <description>After acquaintance with HTML and CSS at coding school, I soon found myself leading a project related to routing tours around Vilnius for tourists. In the tenth grade, my friends and I came up with an idea of making a website that would generate the most efficient route after choosing certain historical and cultural objects while traveling around Vilnius. The uniqueness of this idea was that we did not limit ourselves to the most popular tourist spots, but extended the routes to Vilnius’ less-seen, usually underappreciated neighborhoods.</description>
+    </item>
+    
+    <item>
+      <title>Planner application</title>
+      <link>https://agatakazakevic.github.io/Agataportfolio/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agatakazakevic.github.io/Agataportfolio/post/chapter-3/</guid>
+      <description>The idea for this application came because I&amp;rsquo;ve tried a plethora of different planning applications and I thought it would be nice to try to make my own, more comfortable for usage. I used an open-source cross-platform UI framework Xamarin and developed an application in C# programming language. Each item in a calendar can be updated individually. It is possible to change the background color, theme, the number of days, and specify the text.</description>
+    </item>
+    
+    <item>
+      <title>Video games</title>
+      <link>https://agatakazakevic.github.io/Agataportfolio/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agatakazakevic.github.io/Agataportfolio/post/chapter-4/</guid>
+      <description>Through three years I&amp;rsquo;ve created a couple of video games. While the Chess and Flappy bird games I programmed using C++ language, the Memory game I programmed in C# language. Programming Flappy bird game I used the OpenGL library GLUT and its various functions, functionalities along with C++ to give an experience similar to the famous android game. It was developed in Code-Blocks.
+Below you can find the code of the games.</description>
+    </item>
+    
+    <item>
+      <title>Weather app project</title>
+      <link>https://agatakazakevic.github.io/Agataportfolio/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://agatakazakevic.github.io/Agataportfolio/post/chapter-1/</guid>
+      <description>This application is a weather app developed using C# language. The app allows users to see the weather from their current location or another location around the globe using OpenWeather API. Using One Call API the app displays the current weather, 24 hours, and 6 days forecast. A user can add new locations and switch between them from the locations screen. From the settings screen, the unit system can be changed from metric to imperial or standard.</description>
+    </item>
+    
+  </channel>
+</rss>
